@@ -12,7 +12,7 @@
   },
   "author": "",
   "dependencies": {
-    "@stefanpostma/davis": "*",
+    "@StefanPostma/davis": "*",
     "bluebird": "^3.4.6",
     "request": "^2.75.0",
     "request-promise": "^4.1.1"
